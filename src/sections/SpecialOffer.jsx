@@ -1,5 +1,5 @@
 import React from "react";
-import Button from "../components/Button";
+import { Button } from "../components";
 import { offer } from "../assets/images";
 import { arrowRight } from "../assets/icons";
 
