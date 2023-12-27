@@ -1,5 +1,15 @@
 # NikeApp
 
+![image](https://github.com/darecallad/NikeApp/assets/27443134/2de10cd5-220f-4856-97ea-9bf652a68c2d)
+
+![image](https://github.com/darecallad/NikeApp/assets/27443134/c37b46df-3ee5-4025-ad73-d5cd77a9bded)
+
+![image](https://github.com/darecallad/NikeApp/assets/27443134/42336c70-f4fe-4622-a8a1-e56f0dd6bdfb)
+
+![image](https://github.com/darecallad/NikeApp/assets/27443134/0195d933-1e59-43b5-92e9-7c52ae64b5db)
+
+
+
 This is the repository for NikeApp, a React-based web application.
 
 ## Description
@@ -18,7 +28,7 @@ NikeApp is a modern web application built using React. It leverages the latest f
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/nikeapp.git
+   git clone https://github.com/darecallad/nikeapp.git
    ```
 
 2. Navigate to the project directory:
